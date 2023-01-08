@@ -5,9 +5,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SpringBootQuizAppApplicationTests {
-
+//	@Autowired
+//	private TestPerformance testP;
 	@Test
 	void contextLoads() {
+//		testP.MySeleniumTest();
 	}
 
 }
